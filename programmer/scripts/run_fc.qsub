@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#$ -P bf528
+#$ -cwd
+#$ -pe omp 16
+#$ -o /projectnb/bf528/users/dreadlocks/project_3/ryan_tmp/run_log/run_fc.o
+#$ -e /projectnb/bf528/users/dreadlocks/project_3/ryan_tmp/run_log/fun_fc.e
+
+source /etc/bashrc
+
+module load subread/1.6.2
+
+GTF=/project/bf528/project_3/reference/rn4_refGene_20180308.gtf
+OUT=/projectnb/bf528/users/dreadlocks/project_3/ryan_tmp/result/readcount
+NAME=$(basename "$1".txt)
+
+featureCounts -p -T 16 -a $GTF -o $OUT/$NAME $1
