@@ -1,0 +1,16 @@
+#!/bin/bash -l
+
+#$ -P bf528
+#$ -cwd
+#$ -o /projectnb/bf528/users/dreadlocks/project_3/curator/run_mqc_o
+#$ -e /projectnb/bf528/users/dreadlocks/project_3/curator/run_mqc_e
+
+module load python2/2.7.15
+module load multiqc
+
+PATH1=/projectnb2/bf528/users/dreadlocks/project_3/curator/result/qcreport/fastq/
+PATH2=/projectnb2/bf528/users/dreadlocks/project_3/curator/result/qcreport/bam/ 
+PATH=/projectnb2/bf528/users/dreadlocks/project_3/curator
+
+multiqc -o $PATH1 $PATH/result/fastqc/
+multiqc -o $PATH2 $PATH/result/alignment/

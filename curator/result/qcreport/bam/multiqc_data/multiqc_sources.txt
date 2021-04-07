@@ -1,0 +1,10 @@
+Module	Section	Sample Name	Source
+STAR	SummaryLog	SRR1178021	/projectnb2/bf528/users/dreadlocks/project_3/ryan_tmp/result/alignment/SRR1178021Log.final.out
+STAR	SummaryLog	SRR1178014	/projectnb2/bf528/users/dreadlocks/project_3/ryan_tmp/result/alignment/SRR1178014Log.final.out
+STAR	SummaryLog	SRR1178002	/projectnb2/bf528/users/dreadlocks/project_3/ryan_tmp/result/alignment/SRR1178002Log.final.out
+STAR	SummaryLog	SRR1178047	/projectnb2/bf528/users/dreadlocks/project_3/ryan_tmp/result/alignment/SRR1178047Log.final.out
+STAR	SummaryLog	SRR1177997	/projectnb2/bf528/users/dreadlocks/project_3/ryan_tmp/result/alignment/SRR1177997Log.final.out
+STAR	SummaryLog	SRR1177999	/projectnb2/bf528/users/dreadlocks/project_3/ryan_tmp/result/alignment/SRR1177999Log.final.out
+STAR	SummaryLog	SRR1177963	/projectnb2/bf528/users/dreadlocks/project_3/ryan_tmp/result/alignment/SRR1177963Log.final.out
+STAR	SummaryLog	SRR1177964	/projectnb2/bf528/users/dreadlocks/project_3/ryan_tmp/result/alignment/SRR1177964Log.final.out
+STAR	SummaryLog	SRR1177965	/projectnb2/bf528/users/dreadlocks/project_3/ryan_tmp/result/alignment/SRR1177965Log.final.out

@@ -1,0 +1,14 @@
+ryan_tmp/
+analyst/.ipynb_checkpoints/
+analyst/Number of DE Genes vs Overall Concordance.png
+analyst/Rplot.png
+analyst/concordance.ipynb
+analyst/grouped.png
+analyst/run_limma.R
+analyst/run_limma_example.R
+analyst/scatter_plots.png
+analyst/scatterplot.png
+analyst/vocano plot.png
+curator/result/alignment/
+curator/result/fastqc/
+curator/sample/
