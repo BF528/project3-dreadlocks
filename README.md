@@ -9,5 +9,15 @@ Analyst: Zhiyu (Sarah) Zhang (@zhiyu-zz) zzyu@bu.edu<br/>
 Biologist: Yu Zhong (@yuzhong1997) yuzhong@bu.edu<br/>
 
 # Repository Contents
+## Data Curator
 
-Provide a brief description of each script/code file in this repo, what it does, and how to execute it
+
+## Programmer
+
+
+## Analyst
+
+
+## Biologist
+
+
