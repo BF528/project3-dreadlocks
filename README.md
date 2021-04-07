@@ -8,16 +8,5 @@ Programmer: Huisiyu Yu (@yuhuisiyu) yhsy@bu.edu<br/>
 Analyst: Zhiyu (Sarah) Zhang (@zhiyu-zz) zzyu@bu.edu<br/>
 Biologist: Yu Zhong (@yuzhong1997) yuzhong@bu.edu<br/>
 
-# Repository Contents
-## Data Curator
-
-
-## Programmer
-
-
-## Analyst
-
-
-## Biologist
 
 
